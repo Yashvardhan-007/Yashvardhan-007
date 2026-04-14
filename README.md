@@ -1,5 +1,6 @@
 ## Hi there 👋 Yashvardhan Singh Here,
-**AI and Cyersecurity Enthisiast || Pyhton Devloper || Learned the to Learn Fast**
+**AI and Cyersecurity Enthisiast || Python Devloper ||  Threat Detection And Network Defence**
+**Learned the skill to Learn Fast**
 
 
 ## 🌐 Socials:
